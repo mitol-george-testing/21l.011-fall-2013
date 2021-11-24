@@ -1,0 +1,32 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Fine Arts"
+    ],
+    [
+      "Fine Arts",
+      "Visual Arts",
+      "Film and Video"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "00c098a4-38a3-6b3a-5637-a788c70f97a8"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "The Film Experience",
+  "course_description": "This course concentrates on close analysis and criticism of a wide range of films, from the early silent period, classic Hollywood genres including musicals, thrillers and westerns, and European and Japanese art cinema. It explores the work of Griffith, Chaplin, Keaton, Capra, Hawks, Hitchcock, Altman, Renoir, DeSica, and Kurosawa. Through comparative reading of films from different eras and countries, students develop the skills to turn their in-depth analyses into interpretations and explore theoretical issues related to spectatorship.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.011",
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
